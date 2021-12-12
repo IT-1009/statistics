@@ -1,7 +1,7 @@
 # 統計学の用語をコードで表しながら学ぶ
 
 ## 環境
-Jupyter Notebook、言語はPythonを使っている.
+Jupyter Notebook、言語はPythonである.
 
 ## 目次
 
